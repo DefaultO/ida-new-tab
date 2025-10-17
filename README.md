@@ -29,7 +29,7 @@ Restart IDA Pro.
 ## Settings
 <img src="https://github.com/user-attachments/assets/28dd1f7b-08ac-4d1b-8443-ac441c37d05c" />
 
-Access via **Edit → Plugins → Open in new tab** to:
+Access via **Edit -> Plugins -> Open in new tab** to:
 - Enable/disable the plugin
 
 ## License
